@@ -35,3 +35,4 @@ var capFirstLetter = function(str) {
 }
 var input = 36;
 var capital = capFirstLetter(input);
+// If input == str second part of function is initiated glhf
