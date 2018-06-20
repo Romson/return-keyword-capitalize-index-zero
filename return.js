@@ -27,7 +27,7 @@ var input = 36;
 var capital = capFirstLetter(input);
 
 //Return statement if input is != str. (expression)
-var capFirstLetter = function(str) {//Instead of calling variable
+var capFirstLetter = function(str) {
     if(typeof str === 'number') {
         return 'That\'s not a string!'
     }
